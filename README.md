@@ -1,1 +1,3 @@
-# USTA-Proyecto_Obesidad
+# Proyecto_Final_ML
+
+En el siguiente trabajo, se van a desarrollar las metodologías aprendidas a lo largo del curso de Machine Learning de la Universidad Santo Tomás, en donde se aplicarán modelos de aprendizaje supervisado y no supervisado, con el objetivo de encontrar el que mejor ajuste y predicción presente. La base que se utilizará para la implementación de los modelos tiene información de la estimación de niveles obesidad de individuos de México, Perú y Colombia, desagregando hábitos alimenticios, condición física y antecedentes familiares. Es importante mencionar que el "77% de los datos se generaron de forma sintética utilizando la herramienta Weka y el filtro SMOTE, el 23% de los datos se recogieron directamente de los usuarios a través de una plataforma web". (Tomado de https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
